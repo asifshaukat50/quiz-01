@@ -1,2 +1,2 @@
-# quiz-01
-Multiple branch merge quiz.
+# repo-01
+Multiple branch merge repo.
